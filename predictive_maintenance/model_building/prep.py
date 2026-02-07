@@ -1,4 +1,5 @@
 # for data manipulation
+from sklearn.preprocessing import RobustScaler
 import pandas as pd
 import sklearn
 # for creating a folder
